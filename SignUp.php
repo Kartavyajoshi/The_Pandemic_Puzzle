@@ -57,7 +57,7 @@ if($conn){
             <h1>Sign up now</h1>
         </div>
 
-        <form action="/DAIICT/homepage.php" method="post" >
+        <form action="/DAIICT/landing.php" method="post" >
         <div class="form-container">
             <div class="drop">
                 <label for="drop">Account type: </label>
